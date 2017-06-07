@@ -28,7 +28,7 @@ Example
 Mount backup file and define custom port
 
     docker run --name bridge -d --net=host \
-    -v ~/bridge/data/:/bridge/data \
+    -v /bridge/data/:/bridge/data \
     -e PORT="-Dserver.port=8080" \
     -e KEY="-Dsecurity.key=Xfawer354WertSdf321234asd" \
     -e IP="-Dserver.ip=192.168.1.1" \
