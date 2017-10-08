@@ -1,5 +1,7 @@
 # Centos ha-bridge
 
+# Version 4.5.6
+
 FROM centos:centos7
 MAINTAINER Tobias Sgoff
 
