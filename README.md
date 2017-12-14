@@ -5,7 +5,7 @@ https://github.com/bwssytems/ha-bridge
 https://github.com/armzilla/amazon-echo-ha-bridge  
 https://registry.hub.docker.com/u/bios/docker-alexa-ha-bridge/  
 
-**Docker image to start a ha-bridge container with CentOS**
+**Docker image to start a ha-bridge container with alpine**
 
 Use --net=host for functional UPnP discovery
 
