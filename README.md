@@ -1,6 +1,13 @@
 docker-alexa-ha-bridge
 ========
 
+[![](https://images.microbadger.com/badges/image/bios/docker-yourls.svg)](http://microbadger.com/images/bios/docker-alexa-ha-bridge)
+
+[![Docker build](https://dockeri.co/image/bios/docker-alexa-ha-bridge)](https://hub.docker.com/r/bios/docker-alexa-ha-bridge/)
+
+
+
+
 https://github.com/bwssytems/ha-bridge  
 https://github.com/armzilla/amazon-echo-ha-bridge  
 https://registry.hub.docker.com/u/bios/docker-alexa-ha-bridge/  
