@@ -1,6 +1,6 @@
 # Centos ha-bridge
 
-# Version 5.2.2
+# Version 5.4.0
 
 FROM openjdk:8-alpine
 MAINTAINER Tobias Sgoff
